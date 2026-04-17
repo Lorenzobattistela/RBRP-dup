@@ -1,5 +1,9 @@
 # RBRP-dup Q-Learning PoC
 
+![Animated solution example](readme.gif)
+
+Example solve animation for `data/dup_dataset/alpha=0.2/3-6-16/00101.txt`, generated with `200` training episodes.
+
 This repository contains a proof-of-concept implementation of a Q-learning-based solver for the restricted block relocation problem with duplicate priorities (RBRP-dup).
 
 - It models the problem as a tabular Q-learning task.
