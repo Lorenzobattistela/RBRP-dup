@@ -1,0 +1,5 @@
+# target group 1 is blocked in two stacks
+3 5
+2 1 3
+2 1 2
+1 2
